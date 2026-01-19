@@ -120,6 +120,31 @@ Genre-wise analysis reveals audience preference patterns
 
 Data visualization improves insight clarity and decision-making
 
+
+🚀 Why This Project Stands Out
+
+✔ Industry-style EDA structure
+✔ Clear analytical questions
+✔ Multiple visualizations per insight
+✔ Clean, readable, recruiter-friendly notebook
+✔ Demonstrates real-world data analytics workflow
+
+▶️ How to Run the Project
+
+Clone the repository
+
+git clone https://github.com/Nitisha707/Netflix-Data-Analysis-and-Visualization.git
+
+
+Install required libraries
+
+pip install pandas matplotlib seaborn
+
+
+Open Netflix Data Analysis.ipynb in Jupyter or PyCharm
+
+Run all cells sequentially
+
 👩‍💻 Author
 
 Nitisha Sharma
